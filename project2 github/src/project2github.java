@@ -7,7 +7,8 @@ public class project2github {
 		for (int i=0; i<=x.length;i++){
 		if 
 		(x[i]=="dhaka")
-				System.out.println("dhaka is available");
+				System.out.println("dhaka is availablllllllllllllllllllllllle");
+			
 
 	}
 	}
